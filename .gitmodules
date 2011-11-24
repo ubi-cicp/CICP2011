@@ -1,0 +1,6 @@
+[submodule "SharedComponents"]
+	path = SharedComponents
+	url = git@github.com:ubi-cicp/SharedComponents.git
+[submodule "ComputerVision"]
+	path = ComputerVision
+	url = git@github.com:ubi-cicp/ComputerVision.git
